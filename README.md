@@ -28,7 +28,7 @@ This repository contains the codebase for the (in progress) website of the Multi
    git clone https://github.com/yastsc/msss-website.git
 2. Navigate to the project directory:
    ```
-   cd msss-website-main
+   cd msss-website
 3. Install dependencies:
    ```
    npm install
