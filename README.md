@@ -25,10 +25,10 @@ This repository contains the codebase for the (in progress) website of the Multi
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/MSS-Singapore/msss-website-final.git
+   git clone https://github.com/yastsc/msss-website.git
 2. Navigate to the project directory:
    ```
-   cd msss-website-final-main
+   cd msss-website-main
 3. Install dependencies:
    ```
    npm install
