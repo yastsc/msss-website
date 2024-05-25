@@ -1,0 +1,18 @@
+.card-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 4rem;
+}
+
+.slider-container .card{
+    width: 100%;
+}
+
+.slide-container{
+    background-color: rgb(197, 0, 0);
+}
+
+.featuredNewsTitle {
+    margin-top: 0px;
+}
